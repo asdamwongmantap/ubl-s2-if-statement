@@ -15,6 +15,11 @@ func main() {
 	var firstInput, secondInput, thirdInput int
 	var triangle string
 
+	fmt.Println("+===========================================+")
+	fmt.Println("| NIM: 2111600827 ")
+	fmt.Println("| Nama: Mohd Amiruddin Saddam ")
+	fmt.Println("| Program untuk mencetak jenis segitiga dari tiga panjang sisi yang diinput ")
+	fmt.Println("+===========================================+")
 	// Calling Scanf() function for
 	// scanning and reading the input
 	// texts given in standard input
